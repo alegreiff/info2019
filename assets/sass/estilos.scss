@@ -1,0 +1,31 @@
+td.pelicula {
+  /* background: crimson; */
+}
+
+.titulopelicula {
+  color: black;
+}
+
+.titulomalo {
+  color: red;
+}
+/* .controles-peliculas {
+  padding: 0.5em;
+  & label {
+    color: red;
+  }
+} */
+
+.controles-peliculas label {
+  font-size: 0.9em;
+}
+.resumen_peliculas {
+  padding: 0.5em;
+  border: 2px grey solid;
+}
+
+td.alerta {
+  background: red;
+  color: yellow;
+  font-weight: bolder;
+}
